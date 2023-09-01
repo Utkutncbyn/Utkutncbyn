@@ -1,4 +1,4 @@
-![logo](https://github.com/Utkutncbyn/Utkutncbyn/blob/main/rm373batch5-blogbanner-08.jpg)
+![logo](https://github.com/Utkutncbyn/Utkutncbyn/blob/main/BANNER-SIZE-AI-and-Machine-Learning-300x131.jpg)
 <h1 align="center">Hi 👋, I'm Utku Tuncabayın</h1>
 <h3 align="center">An Artificial Intelligence Enginner from Turkey</h3>
 
